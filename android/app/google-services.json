@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827054071837",
+    "project_id": "projetopolicial-3c185",
+    "storage_bucket": "projetopolicial-3c185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827054071837:android:102f96a249002aeca426f4",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827054071837-sik2e4qigttcjtil4nhrmi5kaa25rfk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ni0lgP0El-Uo6eU-naiHO2g3_cbXe-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827054071837-sik2e4qigttcjtil4nhrmi5kaa25rfk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
